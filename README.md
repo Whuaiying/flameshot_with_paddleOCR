@@ -1,0 +1,2 @@
+# flameshot_with_paddleOCR
+将paddle ocr嵌入到flameshot中，实现截图取字的功能
